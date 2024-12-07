@@ -36,18 +36,6 @@ To become the most trusted and scalable B2B commerce platform globally, fosterin
 
 ---
 
-## Technologies We Use
-
-- **Backend**: PHP
-- **Frontend**: Vue.js, WordPress
-- **E-commerce Platform**: WooCommerce (initial phase)
-- **ERP System**: Dolibarr (customized and reverse-engineered)
-- **Server Management**: OpenLiteSpeed, Kubernetes
-- **Payment Gateways**: SSLCommerce, AmarPay
-- **Database**: Shared between WordPress and Vue Merchant Panel
-
----
-
 ## Get Involved
 
 We are always looking for talented developers and collaborators passionate about creating impactful B2B solutions. Contact us to learn more!
