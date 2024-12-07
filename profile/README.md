@@ -56,8 +56,8 @@ We are always looking for talented developers and collaborators passionate about
 
 ## Contact Us
 
-📧 Email: info@supplyr.com  
-🌐 Website: [Supplyr Ltd.](https://www.supplyr.com)  
+📧 Email: info@yoursupplyr.com  
+🌐 Website: [Supplyr Ltd.](https://yoursupplyr.com)  
 
 ---
 
